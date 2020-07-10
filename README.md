@@ -1,0 +1,2 @@
+# myDome
+a javascipt project
